@@ -121,3 +121,159 @@ a {
  .footer-logo .logo-part {
     color: #f4f4fd;
     }
+
+/* {
+    box-sizing: border-box;
+}
+*/
+ /*      h1,
+        h2,
+        h3 {
+             margin-top: 0;
+             margin-bottom: 0;
+         }
+         
+        p {
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+
+              
+*/
+/*img {
+    display: block;
+}
+*/
+
+.container {
+        max-width: 1440px;
+            padding: 0 auto;
+            margin: 0;
+         
+    }
+   
+.logo {
+    width: 115px;
+    height: 24px;
+    padding: 24px 76px 24px 156px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row;
+    gap: 0px;
+}
+
+ul {
+      margin-top: 0;
+      margin-bottom: 0;
+      padding-left: 0;
+  }
+
+.nav-list {
+    width: 261px;
+    height: 24px;
+    padding: 24px 332px 24px 76px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row;
+    gap: 40px;
+  }
+
+.page-header .container {
+    display: flex;
+    }
+
+.container .contacts-item {
+    display: flex;
+}
+
+.container .header-nav{
+            display: flex;
+        }
+
+.container .logo {
+    display: flex;
+}
+
+.container .nav-list {
+    display: flex;
+}
+
+.container .contacts-list {
+    display: flex;
+}
+/*.contacts {
+    width: 1158px; 
+    padding: 0 15px;
+    margin: 0 auto;
+   }
+*/
+/*
+.nav-item {
+width: calc((100% - 20px) / 3);
+}
+*/
+
+
+ {
+
+}
+
+/*
+.nav-list {
+display: flex;
+ align-items: flex-start;
+justify-content: flex-start;
+flex-direction: row;
+gap: 40px;
+width: 261px;
+height: 24px;
+}
+*/
+/*
+.subtitle-listist {
+display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 8px;
+    width: 264px;
+        height: 104px;
+width: 1128px;
+    height: 104px;
+}
+.container-subject{
+    width: 1128px;
+        height: 104px;
+         max-width: ;
+ padding-left: 0px;
+ padding-right: 0px;
+ margin-left: 156px;
+ margin-right: 156px;
+}
+*/
+/*
+.subtitle-text {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    write-space: nowrap;
+    clip-path: inset(100%);
+    clip:rect(0 0 0 0);
+    overflow: hidden;
+}
+*/
+/*.contacts-item {
+        width: calc((100% - 20px) / 3);
+    }
+*/
+/*
+header {
+    display: flex;
+    width: 1440px;
+    height: 72px;
+}
+*/
