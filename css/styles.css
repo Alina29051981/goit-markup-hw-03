@@ -37,7 +37,7 @@ a {
     border-bottom: 1px solid #e7e9fc;
         }
 
-.heder-container {
+.header-container {
      display: flex;
      align-items: center;
   }
@@ -98,47 +98,47 @@ display: flex;
             gap: 40px;
     }
 
- .contacts-link{
+.contacts-link{
             font-size: 16px;
             line-height: 1.5;
             letter-spacing: 0.02em;
             color: #434455;
            }
- 
+ .title{
+        padding-bottom: 188px;
+        text-align: center;
+    }
 
 .title, .page-footer{
        background-color: #2e2f42;
 }
 
 .title-text{
-    padding: 188px 472px 48px 472px;
+    padding: 188px 0px 48px 0px;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
+    max-width: 496px;
+    margin: 0 auto;
 }
+
 .title-button {
         border-radius: 4px;
-        padding: 16px 32px;
+        
         width: 169px;
+        height: 56px;
         font-weight: 500;
             line-height: 1.5;
             letter-spacing: 0.04em;
             cursor: pointer;
     background-color: #4d5ae5;
                 color: #fff;
-                
- }    
+                 }    
 
  .title-button:hover,.title-button:focus {
     background-color:#404bbf;
-}
-
-.container-subject {
-    display: flex;
-    align-items: center;
-   
 }
 
 .subtitle-list{
@@ -196,12 +196,51 @@ display: flex;
         color:#434455;
     }
 
+.gallery {
+    padding-bottom: 110px;
+
+
+}
+
+.gallery-subtitle {
+            padding-top: 120px ;
+            padding-bottom: 72px;
+           
+    
+        }
+.gallery-subtitle {
+    padding-top: 120px;
+    padding-bottom: 72px;
+
+
+}
+
+.gallery-subject {
+    padding-top: 32px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+}
+
+.gallery-text {
+
+    padding-bottom: 32px;
+    padding-left: 16px;
+}
+.gallery-list {
+                    display: flex;
+                    align-items: center;
+                    flex-wrap: wrap;
+                    gap: 48px 24px;
+        
+                }
+
 .logo-text {
             font-size: 16px;
             line-height: 1.5;
             letter-spacing: 0.02em;
             color: #f4f4fd;
 }
+
 
  .footer-logo .logo-part {
     color: #f4f4fd;
@@ -213,6 +252,27 @@ img {
     height: auto;
 }
    
+.page-footer {
+    border-bottom: 1px solid #e7e9fc;
+}
+
+.footer-container{
+ max-width: 1158px;
+ padding: 100 16px;
+ margin: 0 auto;
+}
+
+.footer-logo {
+padding-top: 100px;
+    padding-bottom: 16px;
+}
+
+.logo-text {
+    padding-top: 16px;
+    padding-bottom: 100px;
+    max-width: 264px;
+}
+
 /*.logo {
     width: 115px;
     padding: 24px 76px 24px 156px;
