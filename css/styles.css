@@ -125,13 +125,12 @@ a {
 }
 
 .title, .page-footer {
-       background-color: #2e2f42;
+    background-color: #2e2f42;
 }
 
 .title-text{
-    padding: 188px 0px 48px 0px;
     max-width: 496px;
-    margin: 0 auto;
+    margin-bottom: 48px;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
@@ -195,10 +194,6 @@ a {
 
 .subject {
     margin-bottom: 8px;
-}
-
-.subject-text {
-  
 }
 
 .subtitle,.gallery-subtitle {
