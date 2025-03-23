@@ -165,7 +165,7 @@ a {
     padding: 120px 0px;
 }
 
-.visually-hidden {
+.container .visually-hidden {
     position: absolute;
     width: 1px;
     height: 1px;
@@ -194,6 +194,11 @@ a {
 
 .subject {
     margin-bottom: 8px;
+    text-align: start;
+}
+
+.subject-text {
+    text-align: start;
 }
 
 .subtitle,.gallery-subtitle {
