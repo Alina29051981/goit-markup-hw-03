@@ -163,7 +163,7 @@ a {
 
 
 .subtitle {
-    padding: 120px 156px;
+    padding: 120px 0px;
 }
 
 .visually-hidden {
@@ -194,7 +194,7 @@ a {
 }
 
 .subject {
-    padding-bottom: 8px;
+    margin-bottom: 8px;
 }
 
 .subject-text {
@@ -302,6 +302,14 @@ a {
     color: #434455;
 }
 
+
+/*footer*/
+
+
+.page-footer{
+    padding: 100px 0px;
+}
+
 .logo-text {
     font-size: 16px;
     line-height: 1.5;
@@ -311,7 +319,7 @@ a {
 
 .footer-logo {
     padding-top: 100px;
- }
+}
 
 .footer-logo .logo-part {
     color: #f4f4fd;
