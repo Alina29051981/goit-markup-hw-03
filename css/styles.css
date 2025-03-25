@@ -131,8 +131,8 @@ a {
 
 .title-text{
     max-width: 496px;
-    padding-bottom: 48px;
     margin: 0 auto;
+    margin-bottom: 48px;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
